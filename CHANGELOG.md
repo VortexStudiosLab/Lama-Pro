@@ -2,7 +2,7 @@
 
 Alle nennenswerten Änderungen an Lama Pro werden in dieser Datei dokumentiert.
 
-## [1.0.0] - 2026-06-11
+## v.1.0.0 - 2026-06-11
 
 ### Added
 - Desktop-App (customtkinter) mit 4 Modi: Schnell, Standard, Code, Bilder
