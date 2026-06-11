@@ -45,4 +45,4 @@ Die APK in [`releases/`](releases/) ist eigenständig und benötigt keinen laufe
 
 ## Versionierung
 
-Aktuelle Version: siehe [`VERSION`](VERSION). Änderungen siehe [`CHANGELOG.md`](CHANGELOG.md).
+Aktuelle Version: siehe [`VERSION`](VERSION). Änderungen siehe [`CHANGELOG.md`](https://github.com/VortexStudiosLab/Lama-Pro/blob/main/CHANGELOG.md).
