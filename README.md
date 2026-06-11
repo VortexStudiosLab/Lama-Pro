@@ -18,7 +18,7 @@ Ein persönlicher KI-Assistent auf Basis der **NVIDIA NIM API**, verfügbar als 
 
 ## Download
 
-Fertige Builds können unter [`releases/`](releases/) (jeweils nach Version sortiert) gefunden werden. Vorab-Versionen können unter [`prereleases/`](prereleases/) gefunden werden.
+Fertige Builds können unter [`releases`](https://github.com/VortexStudiosLab/Lama-Pro/releases) (jeweils nach Version sortiert) gefunden werden. Vorab-Versionen können unter [`prereleases`](https://github.com/VortexStudiosLab/Lama-Pro/releases) gefunden werden.
 
 
 ### 2. Desktop-App
@@ -28,7 +28,7 @@ pip install -r requirements.txt
 python src/main.py
 ```
 
-Fertige Windows-EXE: siehe [`releases/`](releases/).
+Fertige Windows-EXE: siehe [`releases`](https://github.com/VortexStudiosLab/Lama-Pro/releases).
 
 ### 3. Mobile Web-App
 
@@ -40,7 +40,7 @@ Zeigt eine Adresse wie `http://192.168.x.x:5000` an – im Handy-Browser (selbes
 
 ### 4. Android-APK
 
-Die APK in [`releases/`](releases/) ist eigenständig und benötigt keinen laufenden PC – sie spricht direkt mit der NVIDIA-API. Einfach installieren ("Installation aus unbekannten Quellen" ggf. erlauben) und öffnen.
+Die APK in [`releases`](https://github.com/VortexStudiosLab/Lama-Pro/releases) ist eigenständig und benötigt keinen laufenden PC – sie spricht direkt mit der NVIDIA-API. Einfach installieren ("Installation aus unbekannten Quellen" ggf. erlauben) und öffnen.
 
 
 ## Versionierung
